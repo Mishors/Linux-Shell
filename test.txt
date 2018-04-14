@@ -1,0 +1,9 @@
+ls
+ls -l -a
+x = 5
+echo $x
+echo $PATH
+exit
+echo "HEy"
+exit
+ls
